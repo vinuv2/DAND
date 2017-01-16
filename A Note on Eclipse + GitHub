@@ -1,0 +1,9 @@
+# Roughly
+1. Have Git plugin with Eclipse,
+2. Make Java project, 
+3. Add that same name in GitHub
+4. Right click on project -> Team -> Share -> Git
+5. Make a change in one file, commit the files, to see master branch under the repo
+6. Add GitHub link by going Remotes folder for Git Repo
+7. In configure push console, under Ref mapping add master via Advanced...
+8. Commit & Push
